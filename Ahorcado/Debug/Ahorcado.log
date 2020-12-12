@@ -1,20 +1,8 @@
 ﻿  Ahorcado.cpp
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(75,14): error C2143: error de sintaxis: falta ';' delante de ':'
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(75,14): error C2059: error de sintaxis: ':'
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(82,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(84,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(86,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(107,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(109,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(111,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(131,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(132,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(133,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(136,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(137,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(138,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(147,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(148,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(149,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(152,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
-C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(153,10): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(157,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(214,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(229,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(239,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(244,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(247,22): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\RICARDO\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(263): error C4716: 'Verificar': debe devolver un valor
